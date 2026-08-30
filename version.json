@@ -1,6 +1,19 @@
 {
+  "appName": "Flow",
   "versionCode": 2,
-  "versionName": "1.1",
-  "updateMessage": "يوجد إصدار جديد من Senorr Cashier",
-  "downloadUrl": "https://example.com/SenorrCashier.apk"
+  "versionName": "1.1.0",
+  "minimumVersionCode": 1,
+  "forceUpdate": false,
+  "updateTitle": "تحديث جديد متاح",
+  "updateMessage": "يوجد إصدار جديد من Flow. قم بالتحديث للحصول على آخر التحسينات.",
+  "releaseDate": "2026-08-30",
+  "releaseNotes": [
+    "تحسين نظام الكاشير",
+    "تحسين إدارة المنتجات",
+    "تحسين الفواتير",
+    "تحسين حركة الدرج",
+    "إضافة وتحسين التقارير",
+    "إصلاح بعض الأخطاء"
+  ],
+  "downloadUrl": "https://github.com/yousefebrahem177-lang/SenorrCashierUpdate/releases/download/v1.1.0/Senorr.Cashier_1.1.0.apk"
 }
