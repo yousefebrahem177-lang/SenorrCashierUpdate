@@ -1,11 +1,11 @@
 {
-  "appName": "Flow",
+  "appName": "EFF",
   "versionCode": 3,
   "versionName": "1.1.1",
   "minimumVersionCode": 1,
   "forceUpdate": false,
   "updateTitle": "تحديث جديد متاح",
-  "updateMessage": "يوجد إصدار جديد من Flow. قم بالتحديث للحصول على آخر التحسينات.",
+  "updateMessage": "يوجد إصدار جديد من EFF. قم بالتحديث للحصول على آخر التحسينات.",
   "releaseDate": "2026-08-30",
   "releaseNotes": [
     "تحسين نظام الكاشير",
